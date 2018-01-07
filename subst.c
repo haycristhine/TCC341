@@ -3,6 +3,7 @@
 #include <ctype.h>
 #define ASCII_LENGTH 128 //Number of ascii characters
 
+
 typedef struct node
 {
     int char_code;
